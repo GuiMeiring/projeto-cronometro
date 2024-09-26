@@ -2,7 +2,8 @@ body {
     font-size: 62.5%;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(to top, #4caf50, #ffeb3b);
+    background: linear-gradient(to top, #000000, #483D8B, #A020F0);
+    color: #FEFEFE;
 }
 
 .cabecalho {
@@ -15,8 +16,8 @@ body {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    gap:3vw;
-    font-size: 4.8em;
-    padding: 1rem 2rem;
+    gap:3rem;
+    font-size: 2.4em;
+    padding: 1rem 10rem;
 }
 
